@@ -4,6 +4,8 @@ Putting my energy to learn more about software development; trying day-by-day to
 
 I faithfully believe that education, cooperation and technology can help the humanity reach its highest achievements.
 
+Surf lover! :surfer:
+
 ## Challenges
 
 Check all my current made challenges below:
@@ -15,4 +17,6 @@ Check all my current made challenges below:
 - [Hackerank GeekHunter](https://github.com/oaugusto256/uri-geekhunter) Aug/2018
 - [URI project](https://github.com/oaugusto256/uri-project) May/2018
 
-:ocean: @oaugusto256
+---
+
+> Happiness comes in waves :ocean: - @oaugusto256
