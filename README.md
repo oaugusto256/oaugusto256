@@ -1,4 +1,4 @@
-## About me
+# About me
 
 Putting my energy to learn more about software development; trying day-by-day to be a better human; sharpening my soft skills and building strong relationships.
 
@@ -8,7 +8,7 @@ Surf lover! :surfer:
 
 ## Challenges
 
-Check all my current made challenges below:
+Check all of them below:
 
 - [Mercadolibre search](https://github.com/oaugusto256/meli-challenge) June/2020
 - [foo.bar](https://github.com/oaugusto256/foo.bar) Feb/2020
@@ -20,6 +20,20 @@ Check all my current made challenges below:
 
 We can see my code skills growth from the first one until the last one.
 
+## Studying
+
+- GraphQL
+- TypeScript
+- Apollo
+
+## Wants to study
+
+- Rust
+- Relay
+- Flutter
+
 ---
 
-> Happiness comes in waves :ocean: - @oaugusto256
+> Happiness comes in waves :ocean: 
+
+@oaugusto256
