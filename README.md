@@ -8,7 +8,7 @@ Surf lover! :surfer:
 
 ## Challenges
 
-Check all of them below:
+You can check all my code challenges at the list below:
 
 - [Mercadolibre search](https://github.com/oaugusto256/meli-challenge) June/2020
 - [foo.bar](https://github.com/oaugusto256/foo.bar) Feb/2020
@@ -18,7 +18,7 @@ Check all of them below:
 - [Hackerank GeekHunter](https://github.com/oaugusto256/uri-geekhunter) Aug/2018
 - [URI project](https://github.com/oaugusto256/uri-project) May/2018
 
-We can see my code skills growth from the first one until the last one.
+I haven't changed them since the time it has been finished. Therefore, we can see a clear improvement at SOLID principles, language knowhow and expertise using general development tools, from the first project until the last one.
 
 ## Studying
 
