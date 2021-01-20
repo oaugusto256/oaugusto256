@@ -7,17 +7,11 @@ Surf lover! :surfer:
 ## Studying
 
 - GraphQL
-- TypeScript
 - Apollo
+- TypeScript
 
 ## Wants to study
 
 - Rust
 - Relay
 - Flutter
-
----
-
-> Happiness comes in waves :ocean: 
-
-@oaugusto256
