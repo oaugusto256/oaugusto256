@@ -1,4 +1,4 @@
-A homo sapiens who likes technology.
+Homo sapiens who likes technology.
 
 Always putting energy to learn more about software development; lifelong learner; trying day-by-day to be a better human; sharpening my soft skills and building strong relationships with all around me.
 
