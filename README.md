@@ -7,5 +7,3 @@ I faithfully believe that education, cooperation and technology can help humanki
 If you are an aspiring or junior developer looking for a mentor, reach me! I will be glad and happy to help you through the journey.
 
 > "Learning never exhausts the mind." - Leonardo da Vinci
-
-Surf lover! :surfer:
